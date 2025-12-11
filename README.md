@@ -9,6 +9,6 @@ Welcome to my professional data portfolio. This repository showcases projects in
 **Objective:** Demonstrate dashboard design, data visualization, and Power BI skills.  
 **Tools Used:** Power BI, Excel, DAX  
 **Screenshots:**  
-![Refund Dashboard](Power BI/Rebate fund payment.jpg)  
+![Refund Dashboard](Power BI/Dashboard.jpg)  
 **Insights:** The dashboard highlights payments and refunds trends, top causes of refund, and percentaje of refund by payments.
 
