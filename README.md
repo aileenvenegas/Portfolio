@@ -18,7 +18,7 @@ Interactive dashboard built as a portfolio mockup, inspired by a real business u
 - KPI definition  
 - Data visualization and storytelling  
 
-**Tools:** Power BI, Excel, DAX  
+**Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/REFUNDS.pbix), Excel, DAX, SharePoint.
 
 ![Refund Dashboard](Power_BI/Dashboard.jpg)
 
@@ -49,7 +49,7 @@ Data analysis project focused on improving the estimation of electrical energy c
 
 ![k-Nearest Neighbors](R/DTR.jpg)
 
-**Tools:** R, R Studio, R Markdown, tidyverse, tidymodels  
+**Tools:** [R](https://github.com/aileenvenegas/Portfolio/blob/main/R/Wastewater%20project.Rmd), R Studio, [R Markdown] (https://github.com/aileenvenegas/Portfolio/blob/main/R/Wastewater-project.html), tidyverse, tidymodels  
 
 This project emphasizes model comparison, generalization performance, and interpretability rather than maximizing predictive accuracy.
 
