@@ -22,7 +22,7 @@ Interactive dashboard built as a portfolio mockup, inspired by a real business u
 
 ![Refund Dashboard](Power_BI/Dashboard.jpg)
 
-**Key Insights:**  
+**Insights:**  
 The dashboard highlights refund trends over time, main refund causes, and the relationship between payments and refunds.
 
 ---
