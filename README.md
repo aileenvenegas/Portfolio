@@ -39,15 +39,15 @@ Data analysis project focused on improving the estimation of electrical energy c
 **Models used:**  
 - Linear Regression
 
-![Linear Regression](R/LR.jpg)
+![Linear Regression](R/Images/LR.jpg)
 
 - k-Nearest Neighbors
   
-![k-Nearest Neighbors](R/KKNN.jpg)
+![k-Nearest Neighbors](R/Images/KKNN.gif)
   
 - Decision Tree Regression
 
-![k-Nearest Neighbors](R/DTR.jpg)
+![k-Nearest Neighbors](R/Images/DTR.jpg)
 
 **Tools:** [R](https://github.com/aileenvenegas/Portfolio/blob/main/R/Wastewater%20project.Rmd), R Studio, [R Markdown](https://github.com/aileenvenegas/Portfolio/blob/main/R/Wastewater-project.html), tidyverse, tidymodels  
 
