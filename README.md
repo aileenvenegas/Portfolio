@@ -38,7 +38,7 @@ Multi-page interactive dashboard developed as a portfolio project, based on a re
 - Visual storytelling across report pages
 
 **Data Model:**  
-- 4 related tables (star model)
+- 4 related tables 
 - Star-schema–oriented design for analytical reporting
 
 **Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/credit_dashboard/CREDITS.pbix), Excel, DAX, SharePoint.
