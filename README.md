@@ -9,7 +9,7 @@ All datasets used are generic, fictional, or anonymized and were adapted specifi
 
 ## Projects
 
-### [Power BI – Refunds Dashboard](https://github.com/aileenvenegas/Portfolio/tree/main/Power_BI)
+### [Power BI – Refunds Dashboard](https://github.com/aileenvenegas/Portfolio/tree/main/Power_BI/refund_dashboard)
 **Description:**  
 Interactive dashboard built as a portfolio mockup, inspired by a real business use case.
 
@@ -18,18 +18,37 @@ Interactive dashboard built as a portfolio mockup, inspired by a real business u
 - KPI definition  
 - Data visualization and storytelling  
 
-**Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/REFUNDS.pbix), Excel, DAX, SharePoint.
+**Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/refund_dashboard/REFUNDS.pbix), Excel, DAX, SharePoint.
 
-![Refund Dashboard](Power_BI/Refund_image_dashboard.jpg)
+![Refund Dashboard](Power_BI/refund_dashboard/refund_image_dashboard.jpg)
 
-![Refund Dashboard](Power_BI/filters_refund_dashboard.gif)
+![Refund Dashboard](Power_BI/refund_dashboard/filters_refund_dashboard.gif)
 
 **Insights:**  
 The dashboard highlights refund trends over time, main refund causes, and the relationship between payments and refunds.
 
 ---
-### [Power BI – Credits Dashboard](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/CREDITS.pbix)
+### [Power BI – Credits Dashboard](https://github.com/aileenvenegas/Portfolio/tree/main/Power_BI/credit_dashboard)
+**Description:**  
+Multi-page interactive dashboard developed as a portfolio project, based on a real credit management use case. The data model and visuals were adapted and anonymized for demonstration purposes.
 
+**Focus:**  
+- Dashboard design and layout  
+- KPI definition and performance monitoring
+- Visual storytelling across report pages
+
+**Data Model:**  
+- 4 related tables (star model)
+- Star-schema–oriented design for analytical reporting
+
+**Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/credit_dashboard/CREDITS.pbix), Excel, DAX, SharePoint.
+
+![Credit Dashboard](Power_BI/credit_dashboard/credit_image_dashboard.jpg)
+
+![Credit Dashboard](Power_BI/credit_dashboard/filter_credit_dashboard.gif)
+
+**Insights:**  
+The report provides a consolidated view of the credit, including credit status distribution, outstanding balances, risk segmentation, and temporal trends across multiple report pages.
 
 ### [R & R Markdown – Energy Consumption Estimation](https://github.com/aileenvenegas/Portfolio/tree/main/R)
 **Description:**  
