@@ -20,7 +20,7 @@ Interactive dashboard built as a portfolio mockup, inspired by a real business u
 
 **Tools:** [Power BI](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/REFUNDS.pbix), Excel, DAX, SharePoint.
 
-![Refund Dashboard](Power_BI/Refunf_image_dashboard.jpg)
+![Refund Dashboard](Power_BI/Refund_image_dashboard.jpg)
 
 ![Refund Dashboard](Power_BI/filters_refund_dashboard.gif)
 
@@ -28,6 +28,8 @@ Interactive dashboard built as a portfolio mockup, inspired by a real business u
 The dashboard highlights refund trends over time, main refund causes, and the relationship between payments and refunds.
 
 ---
+### [Power BI – Credits Dashboard](https://github.com/aileenvenegas/Portfolio/blob/main/Power_BI/CREDITS.pbix)
+
 
 ### [R & R Markdown – Energy Consumption Estimation](https://github.com/aileenvenegas/Portfolio/tree/main/R)
 **Description:**  
